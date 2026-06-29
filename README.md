@@ -1,20 +1,22 @@
 # 中文学生开发者福利清单
 
+> 学生开发者可申请的 AI、开发、云服务、设计、笔记和域名福利入口。
+
 ![preview](assets/preview.png)
 
-学生身份最值钱的时候，很多人反而不知道它能换什么。这个仓库只收官方教育入口和相对稳定的福利页面，不收来路不明的教育邮箱玩法。
+## Overview
 
-先把 GitHub Student Developer Pack 搞定，它相当于学生开发者福利的总开关。云服务免费额度一定要设预算，不然免费两个字会变得很贵。
+整理学生身份可申请的开发工具、云服务、设计工具、笔记工具和教育优惠入口。
 
-## 先看这几个
+本仓库只保留与主题直接相关、入口稳定、说明清晰的资源。优先收录官方文档、主流开源仓库、长期可访问的产品页面和常用工具链。
+
+## Key Resources
 
 GitHub Student Developer Pack / GitHub Education / JetBrains for Students / Azure for Students
 
-准备学校邮箱、学生证或学籍证明，然后从 GitHub Education 开始。
+## Resources
 
-## 入口
-
-| 名称 | 我为什么留它 |
+| Resource | Use case |
 | --- | --- |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | 学生开发者福利总入口。 |
 | [GitHub Education](https://education.github.com/) | GitHub 教育认证与校园资源。 |
@@ -25,25 +27,29 @@ GitHub Student Developer Pack / GitHub Education / JetBrains for Students / Azur
 | [Canva Education](https://www.canva.com/education/) | Canva 教育资源。 |
 | [Namecheap Education](https://nc.me/) | 学生域名相关优惠入口。 |
 
-## 我的使用顺序
+## Recommended Path
 
-- 准备学校邮箱、学生证或学信/学校证明。
-- 先申请 GitHub Student Pack，因为它会解锁一串开发工具。
-- 记录每个福利的续期时间。
+1. 准备学校邮箱、学生证或学信/学校证明。
+2. 先申请 GitHub Student Pack，因为它会解锁一串开发工具。
+3. 记录每个福利的续期时间。
 
-## 别踩坑
+## Notes
 
-- 不要用来路不明的教育邮箱。
-- 免费额度也可能产生付费账单，云服务一定要设预算告警。
+- 避免使用来源不明的教育邮箱或账号代认证服务。
+- 云服务免费额度仍可能产生付费账单，建议设置预算和告警。
 
-## 截图来源
+## Screenshot
 
-这张图来自公开页面：[https://github.com/github-education-resources](https://github.com/github-education-resources)。如果页面改版，截图可能会和当前官网略有出入。
+Source: [https://github.com/github-education-resources](https://github.com/github-education-resources)
 
-## 维护方式
+## Data
 
-链接数据放在 [`data/links.json`](data/links.json)。我倾向于少而准：入口失效就换，说明过时就改，不把这里做成什么都往里塞的大杂烩。
+Structured resource data is available in [`data/links.json`](data/links.json).
+
+## Contributing
+
+PRs are welcome for official links, documentation updates, screenshot refreshes, and concise use-case descriptions. Please avoid mirrors, cracked software, referral links, and unverified downloads.
 
 ## License
 
-MIT. 第三方商标、页面截图和网站内容归原权利方所有；本仓库只做中文导航和使用笔记。
+MIT. Third-party trademarks, screenshots, and website content belong to their respective owners.
